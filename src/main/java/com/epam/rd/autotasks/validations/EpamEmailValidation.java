@@ -11,7 +11,7 @@ public class EpamEmailValidation {
         }
         Matcher m = p.matcher(email);
         return m.matches();
-    }
+    }}
 
 
 
